@@ -7,3 +7,6 @@ I have knowledge of frameworks and continue to study everything related.
  I will be glad to communicate and offer a job or an internship program.
 Email: proko@tut.by
 Telegram: @Alexander_Prokopenko
+![я](https://user-images.githubusercontent.com/101042799/166744213-fe56c72b-4f32-455e-abb0-6749f73419d3.JPG)
+
+
