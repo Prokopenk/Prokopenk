@@ -7,6 +7,9 @@ I have knowledge of frameworks and continue to study everything related.
  I will be glad to communicate and offer a job or an internship program.
 Email: proko@tut.by
 Telegram: @Alexander_Prokopenko
-![я](https://user-images.githubusercontent.com/101042799/166744213-fe56c72b-4f32-455e-abb0-6749f73419d3.JPG)
+😎 I'm a digital nomad, learn Python.
+⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
+
+![Technology-004](https://user-images.githubusercontent.com/101042799/167180157-9597c7de-7f24-4497-b680-85f212336867.jpg)
 
 
