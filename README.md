@@ -10,6 +10,5 @@ Telegram: @Alexander_Prokopenko
 😎 I'm a digital nomad, learn Python.
 ⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
-![Technology-004](https://user-images.githubusercontent.com/101042799/167180157-9597c7de-7f24-4497-b680-85f212336867.jpg)
 
-
+![Technology-006](https://user-images.githubusercontent.com/101042799/168581542-85f7ba7a-3472-4072-8775-90dcd181e8b0.jpg)
