@@ -6,7 +6,7 @@ I have knowledge of frameworks and continue to study everything related.
  My hard skills: Python, Django, Git, SQL, OOP.
  I will be glad to communicate and offer a job or an internship program.
 Email: proko@tut.by
-Telegram: @Alexander_Prokopenko
+Telegram: [@Alexander_Prokopenko](https://t.me/Alexander_Prokopenko)
 😎 I'm a digital nomad, learn Python.
 ⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
