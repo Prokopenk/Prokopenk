@@ -1,12 +1,29 @@
+🙋 Welcome Visitors
+
+I bring order to the chaos, turn coffee into code, automate processes, constantly develop
+
+Proficient: Python, Django, Git, Sql, Oop.
+
+😄 About me
+
 Hello. I am a python developer and am currently looking for new opportunities.
 I will once again join a close-knit team to work together on interesting projects.
 Previous work experience taught me how to multitask, 
 find innovative solutions and work in a team. I have completed courses in python development, 
 I have knowledge of frameworks and continue to study everything related.
- My hard skills: Python, Django, Git, SQL, OOP.
- I will be glad to communicate and offer a job or an internship program.
-Email: proko@tut.by
+My hard skills: Python, Django, Git, SQL, OOP.
+I will be glad to communicate and offer a job or an internship program.
+ 
+Email: thunderstormik1@gmail.com
+
 Telegram: [@Alexander_Prokopenko](https://t.me/Alexander_Prokopenko)
+
+Linkedin: https://www.linkedin.com/in/alexander-p-6364801a6/
+
+Rezume: https://cv2you.com/resume/Ds6Z/      #english
+        https://cv2you.com/ru/resume/jAvT/   #russian
+        
+
 😎 I'm a digital nomad, learn Python.
 ⚡️ I DON'T HATE PEOPLE... I JUST LOVE CODING MORE!
 
