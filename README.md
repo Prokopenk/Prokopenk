@@ -11,13 +11,13 @@ I have knowledge of frameworks and continue to study everything related.
     My hard skills: Python, Django, Git, SQL, OOP.
 I will be glad to communicate and offer a job or an internship program.
  
-Email: thunderstormik1@gmail.com
+- Email: thunderstormik1@gmail.com
 
-Telegram: [@Alexander_Prokopenko](https://t.me/Alexander_Prokopenko)
+- Telegram: [@Alexander_Prokopenko](https://t.me/Alexander_Prokopenko)
 
-Linkedin: https://www.linkedin.com/in/alexander-p-6364801a6/
+- Linkedin: https://www.linkedin.com/in/alexander-p-6364801a6/
 
-Rezume: https://cv2you.com/resume/Ds6Z/      #english
+- Rezume: https://cv2you.com/resume/Ds6Z/      #english
         https://cv2you.com/ru/resume/jAvT/   #russian
         
 
