@@ -2,8 +2,6 @@
 
 I bring order to the chaos, turn coffee into code, automate processes, constantly develop
 
-Proficient: Python, Django, Git, Sql, Oop.
-
 😄 About me
 
 Hello. I am a python developer and am currently looking for new opportunities.
